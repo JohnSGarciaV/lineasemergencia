@@ -1,0 +1,41 @@
+{
+  "A nivel nacional":[
+    {
+      "name":"Línea de seguridad y emergencias 123",
+      "number":"123",
+      "type":"phone"
+    },
+    {
+      "name":"Línea de protección a niños, niñas y adolescentes 141",
+      "number":"141",
+      "type":"phone"
+    },
+    {
+      "name":"Línea de orientación a mujeres víctimas de violencia 155",
+      "number":"155",
+      "type":"phone"
+    },
+    {
+      "name":"Línea de orientación psicológica 192 Op4",
+      "number":"192",
+      "type":"phone"
+    }
+  ],
+  "En Bogotá":[
+    {
+      "name":"Línea 018000112137",
+      "number":"018000112137",
+      "type":"phone"
+    },
+    {
+      "name":"Chat línea 106",
+      "number":"3007548933",
+      "type":"chat"
+    },
+    {
+      "name":"Línea 106",
+      "number":"106",
+      "type":"phone"
+    }
+  ]
+}
